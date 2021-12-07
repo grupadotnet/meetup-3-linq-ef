@@ -1,0 +1,19 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1d4da9a4_002D8fd9_002D4295_002Daabf_002D7364f2f7d75e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestWhere #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::1F247649-6333-4EB0-93A0-5F546807A510::net5.0::Linq.TestIEnumerable.TestWhere&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::1F247649-6333-4EB0-93A0-5F546807A510::net5.0::Linq.TestIEnumerable.TestSum&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=80848299_002D1317_002D42c5_002D9f88_002D37cb0d2bc670/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestWhere" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::1F247649-6333-4EB0-93A0-5F546807A510::net5.0::Linq.TestIEnumerable.TestWhere&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::1F247649-6333-4EB0-93A0-5F546807A510::net5.0::Linq.TestIEnumerable.TestSum&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f6944867_002D91ec_002D4f5a_002D9976_002Dfb579bc2a4bf/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestWhere #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::1F247649-6333-4EB0-93A0-5F546807A510::net5.0::Linq.TestIEnumerable.TestWhere&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::1F247649-6333-4EB0-93A0-5F546807A510::net5.0::Linq.TestIEnumerable.TestSum&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
