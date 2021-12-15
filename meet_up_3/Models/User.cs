@@ -21,5 +21,7 @@ namespace meet_up_3.Models
 
         [MaxLength(200)]
         public string Email { get; set; }
+        
+        public string ParentName { get; set; }
     }
 }
